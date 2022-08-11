@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>325791201736-6t9cdlo3594vvudbj2abb5d9g6d0v076.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.325791201736-6t9cdlo3594vvudbj2abb5d9g6d0v076</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC0uAciLSvWeeRgL3nS2tLq5LflXmSl9Hg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>325791201736</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.shopApp1</string>
+	<key>PROJECT_ID</key>
+	<string>surf-study-jam-d7396</string>
+	<key>STORAGE_BUCKET</key>
+	<string>surf-study-jam-d7396.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:325791201736:ios:f3fcf697c7d8a91ac3e8fd</string>
+</dict>
+</plist>
