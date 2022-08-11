@@ -20,6 +20,8 @@ class MyApp extends StatelessWidget {
       home: AuthScreen(
         authRepository: AuthRepository(StudyJamClient()),
       ),
+      debugShowCheckedModeBanner: false,
+      title: 'Flutter Login UI',
     );
   }
 }

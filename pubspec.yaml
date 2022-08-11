@@ -13,6 +13,7 @@ dependencies:
     sdk: flutter
   surf_study_jam: ^0.1.0
   cupertino_icons: ^1.0.2
+  firebase_core: ^1.20.1
 
 dev_dependencies:
   flutter_test:
@@ -22,3 +23,12 @@ dev_dependencies:
 flutter:
 
   uses-material-design: true
+  assets:
+   - assets/logos/facebook.jpg
+   - assets/logos/google.jpg
+
+
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans.ttf
